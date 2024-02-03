@@ -19,6 +19,8 @@ pip install pandas numpy matplotlib
 
 **Checking if Dataset is Balanced**
 To check if the dataset is balanced or not, a bar graph is plotted using matplotlib.
+
+
 ![Balance_Check](balance.png)<br/>
 
 As we can see from the bar graph, the given dataset is not balanced so, we applied diffrent techniques for the same.
