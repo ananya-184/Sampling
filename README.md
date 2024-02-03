@@ -41,11 +41,11 @@ Jupyter Notebook demonstrates the creation of five different samples using vario
 * **Custom Sampling:** Implementing a custom sampling function that combines elements from both class 0 and class 1 in the final sample.<br/>
 
 We applied the following models on our samples and calculated their acuuracies for each sample:<br/><br/>
-1)Logistic Regression<br/>
-2)SVM<br/>
-3)Decision Trees<br/>
-4)Naive Bayes<br/>
-5)Randon Forest<br/>
+1. Logistic Regression<br/>
+2. SVM<br/>
+3. Decision Trees<br/>
+4. Naive Bayes<br/>
+5. Randon Forest<br/>
 
 After that, we conducted an analysis wherein various models were applied to distinct samples, and subsequently, the accuracies for each model-sample combination were recorded and organized in a tabular format given below:<br/>
 
