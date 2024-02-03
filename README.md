@@ -31,19 +31,19 @@ Undersampling involves reducing the number of instances from the majority class 
 ## Oversampling
 Oversampling involves increasing the number of instances in the minority class to match the majority class. This is implemented using the Oversampling.ipynb Jupyter Notebook.<br/>
 
-Jupyter Notebook demonstrates the creation of five different samples using various sampling techniques:
--**Simple Random Sampling:** Randomly selecting a specified number of instances from the dataset.
--**Stratified Sampling:** Creating samples from each class separately to maintain the original class distribution.
--**Cluster Sampling:** Dividing the dataset into clusters and selecting entire clusters randomly.
--**Systematic Sampling:** Selecting every k-th instance from the dataset.
--**Custom Sampling:** Implementing a custom sampling function that combines elements from both class 0 and class 1 in the final sample.
+Jupyter Notebook demonstrates the creation of five different samples using various sampling techniques:<br/>
+* **Simple Random Sampling:** Randomly selecting a specified number of instances from the dataset.<br/>
+* **Stratified Sampling:** Creating samples from each class separately to maintain the original class distribution.<br/>
+* **Cluster Sampling:** Dividing the dataset into clusters and selecting entire clusters randomly.<br/>
+* **Systematic Sampling:** Selecting every k-th instance from the dataset.<br/>
+* **Custom Sampling:** Implementing a custom sampling function that combines elements from both class 0 and class 1 in the final sample.<br/>
 
-We applied the following models on our samples and calculated their acuuracies for each sample:
-1)Logistic Regression
-2)SVM
-3)Decision Trees
-4)Naive Bayes
-5)Randon Forest
+We applied the following models on our samples and calculated their acuuracies for each sample:<br/>
+1)Logistic Regression<br/>
+2)SVM<br/>
+3)Decision Trees<br/>
+4)Naive Bayes<br/>
+5)Randon Forest<br/>
 
 After that, we conducted an analysis wherein various models were applied to distinct samples, and subsequently, the accuracies for each model-sample combination were recorded and organized in a tabular format given below:<br/>
 
