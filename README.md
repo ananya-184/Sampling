@@ -31,6 +31,8 @@ Undersampling involves reducing the number of instances from the majority class 
 ## Oversampling
 Oversampling involves increasing the number of instances in the minority class to match the majority class. This is implemented using the Oversampling.ipynb Jupyter Notebook.<br/>
 
+##Sampling
+
 Jupyter Notebook demonstrates the creation of five different samples using various sampling techniques:<br/>
 * **Simple Random Sampling:** Randomly selecting a specified number of instances from the dataset.<br/>
 * **Stratified Sampling:** Creating samples from each class separately to maintain the original class distribution.<br/>
