@@ -33,14 +33,14 @@ Oversampling involves increasing the number of instances in the minority class t
 
 ## Sampling
 
-Jupyter Notebook demonstrates the creation of five different samples using various sampling techniques:<br/><br/>
+Jupyter Notebook demonstrates the creation of five different samples using various sampling techniques:<br/>
 * **Simple Random Sampling:** Randomly selecting a specified number of instances from the dataset.<br/>
 * **Stratified Sampling:** Creating samples from each class separately to maintain the original class distribution.<br/>
 * **Cluster Sampling:** Dividing the dataset into clusters and selecting entire clusters randomly.<br/>
 * **Systematic Sampling:** Selecting every k-th instance from the dataset.<br/>
 * **Custom Sampling:** Implementing a custom sampling function that combines elements from both class 0 and class 1 in the final sample.<br/>
 
-We applied the following models on our samples and calculated their acuuracies for each sample:<br/>
+We applied the following models on our samples and calculated their acuuracies for each sample:<br/><br/>
 1)Logistic Regression<br/>
 2)SVM<br/>
 3)Decision Trees<br/>
