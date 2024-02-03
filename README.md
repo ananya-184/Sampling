@@ -54,11 +54,9 @@ After that, we conducted an analysis wherein various models were applied to dist
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/sampling-project.git
+git clone https://github.com/ananya-184/Sampling
 ```
-```
-cd sampling-project
-```
+
 
 Run the Jupyter Notebooks to explore the different sampling techniques.<br/>
 
